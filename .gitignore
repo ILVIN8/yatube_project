@@ -131,4 +131,4 @@ dmypy.json
 # Customize add
 .vscode/
 .idea/
-.venv/
+.venv/.idea
